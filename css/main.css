@@ -70,7 +70,7 @@ img {
 }
 
 p{
-	font-size:13px;
+	font-size:.875em;
 	line-height:27px;
 	font-weight:400;
 	padding-bottom:33px;
@@ -1255,6 +1255,10 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 
 
 @media screen and (max-width: 767px) {
+	
+	p {
+	    font-size: .9em;
+	}
 	.navbar-header{
 		display:none;
 	}
@@ -1319,6 +1323,10 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 
 @media screen and (max-width: 650px) {
 	
+	p {
+	    font-size: 1em;
+	}
+	
 	#wrapper{
 		top: 200px !important;
 	}
@@ -1368,6 +1376,9 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 
 
 @media screen and (max-width: 480px) {
+	p {
+	    font-size: 1.1em;
+	}
 	.bannerText h1 {
 		font-size:32px;
 	}
@@ -1383,6 +1394,9 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 
 
 @media screen and (max-width: 400px) {
+	p {
+	    font-size: 1.2em;
+	}
 	#loopedSlider, #newsSlider{
 		min-height: 650px;
 		height: 100%;
