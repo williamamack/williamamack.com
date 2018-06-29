@@ -273,7 +273,7 @@ header{
 	right:0;
 	top:20px;
 	padding:0;
-	margin:
+	/* margin: */
 	-webkit-border-radius:50%;
 	-moz-border-radius:50%;
 	border-radius:50%;
@@ -553,7 +553,7 @@ header{
 .expertiesdesc h4 {
 	font-size:14px;
 	font-weight:300;
-	color:#UIzards;
+	color: #ffffff;
 	line-height:normal;
 	text-transform:uppercase;
 	letter-spacing:2px;
@@ -724,7 +724,7 @@ span.hoverBox a{
 }
 
 span.hoverBox .smallIcon{
-	width: 74x;
+	width: 74px;
 	margin: 0px auto;
 	position: absolute;
 	top: 50%;
