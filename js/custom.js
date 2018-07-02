@@ -145,7 +145,7 @@ $(window).load(function(){
 	  $('body').removeClass('loading');
 	}
   });
-});*/
+});
 
 
 // we worked slider
@@ -158,7 +158,7 @@ $(window).load(function(){
         
       });
     });
-
+*/
 // Skill set 
 
 
