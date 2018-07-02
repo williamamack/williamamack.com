@@ -132,7 +132,7 @@ $(function() {
 });
 
 
-// Testimonial slider
+/* Testimonial slider
 $(window).load(function(){
   $('.flexslider').flexslider({
 	animation: "fade",
@@ -145,7 +145,7 @@ $(window).load(function(){
 	  $('body').removeClass('loading');
 	}
   });
-});
+});*/
 
 
 // we worked slider
