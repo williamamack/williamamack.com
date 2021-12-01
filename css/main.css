@@ -583,31 +583,31 @@ header{
 
 
 /*----------------------------------------------------
-	 8. Protfolio Style
+	 8. Portfolio Style
 ------------------------------------------------------*/
-.protfolio{
+.portfolio{
 	background:#fff;
 	width:100%;
 	overflow:hidden;
 }
-.protfolio .container{
+.portfolio .container{
 	padding-top:67px ;
 	padding-bottom:0 ;
 }
-.protfolio .heading {
+.portfolio .heading {
 	padding-bottom:50px;
 }
-.protfolio .protBox{
+.portfolio .protBox{
 	padding-top:0 ;
 	padding-bottom:0 ;
 	position:relative;
 }
 
-.protfolio .heading p{
+.portfolio .heading p{
 	padding-bottom:41px;
 	color:#242424
 }
-.protfolio h4{
+.portfolio h4{
 	font-weight:700;
 }
 .portfolioFilter{
