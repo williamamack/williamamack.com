@@ -20,9 +20,9 @@ $(document).ready(function(){
 	});
 	
 	if($(window).width()>767){
-		$('.navbar-wrapper').animate({
+		/* $('.navbar-wrapper').animate({
 			opacity:0
-		},200); 
+		},200); */
 		$('.navbar-wrapper').addClass('stuckMenu');
 		
 	}	
