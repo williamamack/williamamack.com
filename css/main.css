@@ -1319,6 +1319,10 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	.conForm .submitBnt {
 		width:100%;
 	}
+
+    .navbar-nav {
+		display: none;
+}
 }
 
 
